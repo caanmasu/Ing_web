@@ -1,0 +1,20 @@
+Facade en Java
+
+https://www.genbeta.com/desarrollo/diseno-con-patrones-y-fachadas
+https://programacion.net/articulo/patrones_de_diseno_xi_patrones_estructurales_facade_1014
+https://reactiveprogramming.io/books/design-patterns/es/catalog/facade
+http://migranitodejava.blogspot.com/2011/06/facade.html
+https://experto.dev/patron-de-diseno-facade-en-java/
+
+en inglés
+https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6
+https://en.wikipedia.org/wiki/Facade_pattern
+https://www.integu.net/facade-pattern/
+http://www.codinginsights.blog/design-patterns-facade/
+
+Design patterns
+https://sourcemaking.com/design_patterns
+
+Facade en JavaScript
+
+https://dev.to/tomekbuszewski/facade-pattern-in-javascript-3on4
