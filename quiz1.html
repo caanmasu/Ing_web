@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<link rel="stylesheet" href="estilos_quiz1.css">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Quiz 1 html</title>
+	</head>
+	<body>
+		<h1 class="titulo_unillanos">Unillanos</h1>
+		<nav>
+			<ul>
+				<li><a class="active" href="#">Inicio</a></li>
+				<li><a href="#">Registro</a></li>
+				<li><a href="#">Quienes somos</a></li>
+				<li><a href="mi_programa.html">Mi programa</a></li>
+			</ul>
+		</nav>
+
+		<aside>
+			<p>paute aqui</p>
+			<p>paute aqui</p>
+			<p>paute aqui</p>
+			<p>paute aqui</p>
+		</aside>
+
+		<section class="seccion_centro">
+			<h2 style="text-align: center;">Registro</h2><br><br>
+			<label>Nombre: </label><input type="text" name="nombre" id="nombre"/><br><br>
+			<label>Edad: </label><input type="number" name="edad" id="edad" min="1" max="90"/><br><br>
+			<label>Sexo: </label>
+				<input type="radio" id="sexo" name="sexo" checked>H</input>
+				<input type="radio" id="sexo" name="sexo">M</input>
+			<br><br>
+			<label>Correo: </label><input type="email" name="correo" id="correo"/><br><br>
+			<label>Carrera: </label>
+			<select>
+				<option value="sistemas">Sistemas</option>
+				<option value="electronica">Electronica</option>
+				<option value="biologia">Biologia</option>
+			</select>
+			<br><br>
+			<input type="submit" style="text-align: center" onclick="validar()"/>
+		</section>
+		<section>
+			<!--una sección de la página-->
+		</section>
+		<script>
+			function validar(){
+				if (document.getElementById("nombre") &&
+					document.getElementById("edad") &&
+					document.getElementById("correo")){
+					alert("Usuario registrado");
+				}else{
+					alert("Usuario no registrado");
+				}
+			}
+		</script>
+	</body>
+</html>
