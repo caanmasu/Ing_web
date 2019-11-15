@@ -1,0 +1,38 @@
+Camilo Andrés Martínez Suárez - 160003317
+
+ Theranos
+
+Empresa: Theranos (privada)
+Industria: asistencia sanitaria
+Fundación: 2003
+Productos: exámenes de sangre 
+Fundador: Elizabeth Holmes
+Sede: Palo Alto, Estados Unidos
+
+Podríamos confiar en una persona que dice querer cambiar el mundo y su discurso nos convence. El caso Theranos, la empresa de tecnología sanitaria de Elizabeth Holmes ubicada en Palo Alto, Silicon Valley, mostraba una idea revolucionaria capaz de cambiar por completo el sistema de salud por medio de la poca extracción de sangre de un paciente. Tenía dos “plus”: el primero, que la extracción de sangre era muy simple, una pinchada en el dedo y se recoge con un “nanotainer (un aparato pequeño y portátil)” para su análisis. El segundo, era que el análisis de sangre mostraba las enfermedades del paciente, o en otras palabras, notificaba a los médicos las variables de la sangre.
+Parece creíble esta innovación, por eso tantas personas y empresas confiaron pero desafortunadamente no lo fue porque los resultados de los diagnósticos no eran correctos si se comparan con los resultados de otros laboratorios.
+Se notaba que Holmes tenía una filosofía de éxito. Sus ídolos eran los hombres más brillantes de la historia y su mente solo giraba entorno a su proyecto más importante. Esto cautivó bastante a las personas para apoyarla. 
+Hasta imitaba a sus ídolos, por ejemplo, repetía frases, intentaba ordenar como lo hacía Steve Jobs a sus empleados, vestía ropa del mismo color, etc. Hasta su mejor imagen fue cuando tomaba su nanotainer y lo miraba fijamente, así como hacía Jobs con su teléfono.
+Su éxito se basaba en la repetición, intentar algo y fallar tantas veces hasta conseguirlo. Así como lo hizo Edison (de hecho, su máquina analizadora la bautizó con su nombre) con sus inventos. Pues ella hizo lo mismo con su compañía. Intentó hacer que funcione su idea durante estos años, y en el 2014 (11 años después) no funcionaba correctamente. Pero el problema no era que no haya funcionado correctamente sino que en verdad era un fraude. Encontraron muchas irregularidades, en la que se destaca el uso de máquinas convencionales compradas en otras empresas para hacer los análisis, y además no reportaban nada, ni siquiera investigación ni cómo hacían sus análisis.
+El equipo de trabajo de la compañía sabía que no se podía hacer lo que se pedía y tampoco se podían reunir las profesiones, sino que las especialidades estaban en diferentes áreas.
+Lo que me sorprendió es que Holmes haya podido llevar el fraude a gran escala, pasando por encima de los inversores, incluso a la FDA. Aunque fue esta última que descubrió el fraude y fue masificado por los medios y llegar a la rama judicial.
+
+Razones por la cual podría ser fraude:
+Los análisis se hacían con máquinas convencionales en vez de una máquina creada por la empresa. La máquina Edison no funcionaba bien. Los diagnósticos para mostrar no se hacían con la Edison.
+Holmes mentía sobre las cifras anuales de su compañía.
+Las cantidades de sangre requeridas son mucho menores en el orden de 1/100 a 1/1000 y el costo es mucho menor.
+No mostraban de forma transparente sus procesos. Se justificaban de que la empresa es privada y tiene la “receta” secreta que no conviene mostrarla a la competencia.
+Si se supone que la empresa invertía en investigación, nunca se publicaron artículos.
+Holmes en las entrevistas no hablaba más que decir la misma idea de siempre y no daba información más concreta de la empresa.
+La tecnología fue criticada por no ser revisada por pares.
+Ante las críticas, la empresa presentó un laboratorio de análisis de sangre llamado miniLab en una reunión pero los datos no respaldaban las capacidades del dispositivo.
+
+Parece increíble que en todo este tiempo haya persuadido a todos sobre su “secreto” cuando se trata del misterioso análisis de sangre para descubrir enfermedades.
+Holmes seguía insistiendo que con su idea revolucionará el mundo, que lo intentará más de 10 mil veces hasta lograrlo. Quizá ella haya tenido buenas intenciones y nunca haya pensado en engañar a las personas pero igual ya fue inhabilitada durante dos años. No creo que tuviera ganas de lucrarse porque no tenía otras actividades inversoras ni lujos y tampoco poder, pues su forma de ser y de hablar no lo demostraban.
+Puede que en unos años Holmes retorne a la vida tecnológica empresarial y continúe con Theranos o no; su favorabilidad cayó al suelo y la confianza se perdió. Después de este caso se debió tener más regulaciones en las empresas de Silicon Valley y puede ser que en todo EE.UU. Igualmente esta historia será recordada durante años y puede que Holmes recupere su credibilidad y revolucione la industria de verdad.
+
+Según la biografía de Holmes, ella estaba familiarizada con la tecnología y la medicina, lo que la llevó a hacer varios proyectos derivados, en el recorrido de su profesión. Parece que sus proyectos anteriores tenían éxito; usaba tecnologías modernas para solucionar un problema social. Luego de esto, llegó a fundar Theranos.
+
+Esto lo veo como un intento fallido y no como una forma fraudulenta. En el emprendimiento el director no debe contar lo malo de su empresa porque genera pánico y suspicacia. También debe creer siempre en que se va a llegar al objetivo, así no sea cierto. Aunque la situación se salió de control porque se trataba con pacientes, lo cual era muy delicado, se trataba de vidas humanas. Si hubiese sido una empresa de solo tecnología, sin contar con pacientes, se podría reconsiderar.
+
+La compañía alcanzó a tener una valoración de 10 mil millones en su mejor época 2013 y 2014. Anualmente vendía más de 70 mil millones en solo EE.UU. En 2015 empezó la sospecha. En 2016 empezaba a caer su patrimonio y en la crisis, hubo una inversión más en 2017.. Luego el otro año la compañía cerró sus operaciones. Hoy en día Theranos no existe. Esto dio un golpe en los Estados Unidos y la industria tecnológica y médica y quedó en la historia este caso que dio muchas enseñanzas.
